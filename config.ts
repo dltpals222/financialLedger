@@ -11,10 +11,10 @@ const authorize: TYPES.AUTHORIZE = {
 const database: { [key: string]: TYPES.DATABASE_INFO } = {
   local: {
     HOST: 'localhost',
-    PORT: 3366,
+    PORT: 38496,
     USER: 'root',
     PASSWORD: '1q2w3e4r',
-    DATABASE: 'imsi',
+    DATABASE: 'fl',
   },
 };
 
