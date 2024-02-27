@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-const Second: React.FC = () => {
+const second: React.FC = () => {
   return (
     <div>
       <h1>Second.tsx 파일입니다.</h1>
@@ -8,4 +8,4 @@ const Second: React.FC = () => {
   );
 };
 
-export default Second;
+export default second;
